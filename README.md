@@ -60,10 +60,12 @@
 ### Lesson 4
 
 1. Javascript - onClick event
-2. CSS Layout
+2. CSS color 
+3. HTML/CSS Lab (3) - Button Design
+4. CSS Layout
    - Grouping elements
    - width, height, and overflow, box model, position, ...
-3. HTML/CSS Lab (3) - Blog
+5. HTML/CSS Lab (4) - Blog
 
 
 
@@ -98,7 +100,7 @@
    - Images
    - Tables
    - Figures
-4. HTML/CSS Lab (4) - Responsive web design
+4. HTML/CSS Lab (5) - Responsive web design
 
 
 
@@ -108,6 +110,6 @@
 
 ### Lesson 7
 
-1. ​
+
 
 ### Lesson 8
