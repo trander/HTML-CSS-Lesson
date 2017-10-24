@@ -8,11 +8,17 @@
 
 
 
+
+
 **bookmarks**
 
 - https://codepen.io/
+
 - www.khanacademy.org
+
 - www.codecademy.com
+
+  ​
   ​
 
 **syllabus**
@@ -46,6 +52,8 @@
 
 
 
+
+
 # Week 2
 
 ### Lesson 3
@@ -71,6 +79,8 @@
 
 
 
+
+
 # Week 3
 
 ### Lesson 5
@@ -78,7 +88,7 @@
 1. More CSS Selectors
    - Using multiple CSS classes
    - Grouping CSS Selectors
-2.  Other ways to embed CSS
+2. Other ways to embed CSS
    - Using external stylesheets
    - Bootstrap
 
@@ -88,11 +98,13 @@
 
 1. Bootstrap 
    - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins build on jQuery.
+
 2. Layout
    - Overview
    - Grid
    - Media object
    - Utilities for layout
+
 3. Content
    - Reboot
    - Typography
@@ -100,7 +112,16 @@
    - Images
    - Tables
    - Figures
+
 4. HTML/CSS Lab (5) - Responsive web design
+
+   - Sizing element 
+
+   - Media Queries
+
+     ​
+
+
 
 
 
@@ -110,6 +131,23 @@
 
 ### Lesson 7
 
+1. Basic Javascript
 
+   - Data types 
+   - Control Flow
+   - Function and Scope
+   - Arrays
+   - Loops
+
+   ​
 
 ### Lesson 8
+
+1. Baisc Javascript 
+   - Iterators
+   - Objects 
+   - Classes
+   - Browser Compatibility and Transpliation
+   - Modules
+   - Requests
+   - ​
